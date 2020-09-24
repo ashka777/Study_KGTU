@@ -1,0 +1,37 @@
+c:\users\prof86\documents\visual studio 2013\Projects\Avtors_book\Avtors_book\bin\Debug\Avtors_book.exe.config
+c:\users\prof86\documents\visual studio 2013\Projects\Avtors_book\Avtors_book\bin\Debug\Avtors_book.exe
+c:\users\prof86\documents\visual studio 2013\Projects\Avtors_book\Avtors_book\bin\Debug\Avtors_book.pdb
+c:\users\prof86\documents\visual studio 2013\Projects\Avtors_book\Avtors_book\obj\Debug\Avtors_book.exe
+c:\users\prof86\documents\visual studio 2013\Projects\Avtors_book\Avtors_book\obj\Debug\Avtors_book.pdb
+c:\users\prof86\documents\visual studio 2013\Projects\Avtors_book\Avtors_book\obj\Debug\Avtors_book.csprojResolveAssemblyReference.cache
+H:\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.exe.config
+H:\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.exe
+H:\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.pdb
+H:\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.exe
+H:\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.pdb
+H:\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.csprojResolveAssemblyReference.cache
+C:\Users\prof86\Desktop\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.exe.config
+C:\Users\prof86\Desktop\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.exe
+C:\Users\prof86\Desktop\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.pdb
+C:\Users\prof86\Desktop\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.exe
+C:\Users\prof86\Desktop\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.pdb
+C:\Users\prof86\Desktop\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.csprojResolveAssemblyReference.cache
+C:\Users\Solomyanyukav\Desktop\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.exe.config
+C:\Users\Solomyanyukav\Desktop\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.exe
+C:\Users\Solomyanyukav\Desktop\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.pdb
+C:\Users\Solomyanyukav\Desktop\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.exe
+C:\Users\Solomyanyukav\Desktop\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.pdb
+C:\Users\Solomyanyukav\Desktop\УЧЕБА\1семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.csprojResolveAssemblyReference.cache
+C:\Users\Solomyanyukav\Desktop\УЧЕБА\2семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.exe.config
+C:\Users\Solomyanyukav\Desktop\УЧЕБА\2семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.exe
+C:\Users\Solomyanyukav\Desktop\УЧЕБА\2семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.pdb
+C:\Users\Solomyanyukav\Desktop\УЧЕБА\2семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.exe
+C:\Users\Solomyanyukav\Desktop\УЧЕБА\2семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.pdb
+H:\УЧЕБА\2семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.exe.config
+H:\УЧЕБА\2семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.exe
+H:\УЧЕБА\2семестр\Программирование\Курсовая\Avtors_book\Avtors_book\obj\Debug\Avtors_book.pdb
+H:\УЧЕБА\2семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.exe
+H:\УЧЕБА\2семестр\Программирование\Курсовая\Avtors_book\Avtors_book\bin\Debug\Avtors_book.pdb
+D:\ИНСТАLL\программирование\ВСЕ ПРОЕКТЫ\C#\Avtors_book - курсовая(список книг, авторов с сортировкой)\Avtors_book\bin\Debug\Avtors_book.exe.config
+D:\ИНСТАLL\программирование\ВСЕ ПРОЕКТЫ\C#\Avtors_book - курсовая(список книг, авторов с сортировкой)\Avtors_book\obj\Debug\Avtors_book.exe
+D:\ИНСТАLL\программирование\ВСЕ ПРОЕКТЫ\C#\Avtors_book - курсовая(список книг, авторов с сортировкой)\Avtors_book\obj\Debug\Avtors_book.pdb
