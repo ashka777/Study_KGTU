@@ -1,0 +1,15 @@
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\bin\Debug\Personnel.exe.config
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\bin\Debug\Personnel.exe
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\bin\Debug\Personnel.pdb
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\obj\Debug\Personnel.csprojAssemblyReference.cache
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\obj\Debug\Personnel.Form1.resources
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\obj\Debug\Personnel.BE_Personnel.resources
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\obj\Debug\Personnel.Helper.resources
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\obj\Debug\Personnel.Personnel.resources
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\obj\Debug\Personnel.Properties.Resources.resources
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\obj\Debug\Personnel.Shedule.resources
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\obj\Debug\Personnel.Statistic.resources
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\obj\Debug\Personnel.csproj.GenerateResource.cache
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\obj\Debug\Personnel.csproj.CoreCompileInputs.cache
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\obj\Debug\Personnel.exe
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\Personnel\Personnel\obj\Debug\Personnel.pdb

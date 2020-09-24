@@ -1,0 +1,20 @@
+C:\Users\Soul_01\source\repos\PROG_KURS\PROG_KURS\bin\Debug\PROG_KURS.exe.config
+C:\Users\Soul_01\source\repos\PROG_KURS\PROG_KURS\bin\Debug\PROG_KURS.exe
+C:\Users\Soul_01\source\repos\PROG_KURS\PROG_KURS\bin\Debug\PROG_KURS.pdb
+C:\Users\Soul_01\source\repos\PROG_KURS\PROG_KURS\obj\Debug\PROG_KURS.csprojResolveAssemblyReference.cache
+C:\Users\Soul_01\source\repos\PROG_KURS\PROG_KURS\obj\Debug\PROG_KURS.csproj.CoreCompileInputs.cache
+C:\Users\Soul_01\source\repos\PROG_KURS\PROG_KURS\obj\Debug\PROG_KURS.exe
+C:\Users\Soul_01\source\repos\PROG_KURS\PROG_KURS\obj\Debug\PROG_KURS.pdb
+H:\C#\PROG_KURS\PROG_KURS\bin\Debug\PROG_KURS.exe.config
+H:\C#\PROG_KURS\PROG_KURS\obj\Debug\PROG_KURS.exe
+H:\C#\PROG_KURS\PROG_KURS\obj\Debug\PROG_KURS.pdb
+F:\C#\PROG_KURS\PROG_KURS\bin\Debug\PROG_KURS.exe.config
+F:\C#\PROG_KURS\PROG_KURS\obj\Debug\PROG_KURS.exe
+F:\C#\PROG_KURS\PROG_KURS\obj\Debug\PROG_KURS.pdb
+D:\Программирование\С#\с учебы\PROG_KURS\PROG_KURS\bin\Debug\PROG_KURS.exe.config
+D:\Программирование\С#\с учебы\PROG_KURS\PROG_KURS\bin\Debug\PROG_KURS.exe
+D:\Программирование\С#\с учебы\PROG_KURS\PROG_KURS\bin\Debug\PROG_KURS.pdb
+D:\Программирование\С#\с учебы\PROG_KURS\PROG_KURS\obj\Debug\PROG_KURS.csprojAssemblyReference.cache
+D:\Программирование\С#\с учебы\PROG_KURS\PROG_KURS\obj\Debug\PROG_KURS.csproj.CoreCompileInputs.cache
+D:\Программирование\С#\с учебы\PROG_KURS\PROG_KURS\obj\Debug\PROG_KURS.exe
+D:\Программирование\С#\с учебы\PROG_KURS\PROG_KURS\obj\Debug\PROG_KURS.pdb
